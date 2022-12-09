@@ -1,0 +1,21 @@
+topic,Prior Period Vol.,Current Period Vol.,? Growth Rate,Peak Velocity,Volatility,Lifespan (full range),Median (full range),Median Variance,Median Deviation,Z-Score,Total Volume
+politics,23058,17394,-0.245641426,37.20833333,0.285807544,5,757.5,0.036990008,0.052102156,0.71,40452
+international relations,5569,5715,0.026216556,14.16666667,0.319207351,6,183.5,0.0035902,0.055124586,0.07,11284
+china,15796,12227,-0.225943277,30.125,0.283211991,6,463.5,0.039585561,0.068008182,-0.45,28023
+global politics,3709,3876,0.045025613,14,0.498588514,5,124.5,0.175790962,0.077482389,-3.37,7585
+asia,25507,20551,-0.194299604,40.08333333,0.375863556,6,776.5,0.053066004,0.028328102,-1.02,46058
+government,12697,14218,0.119792077,45.375,0.326387752,6,398.5,0.0035902,0.0035902,-0.07,26915
+diplomacy,,,0.7,,,,,,,-5,234
+military,,,0.8782,,,,,,,-4,45245
+foreign policy,,,-0.225943277,,,,,,,-2.5,45
+warfare,,,0.8,,,,,,,2.5,46058
+politics of china,,,-0.9,,,,,,,0.1,275212
+conflicts,,,0.9,,,,,,,0.0005,11284
+international security,,,0.58,,,,,,,3.9,28023
+politics of asia,,,0.026216556,,,,,,,12,7585
+national security,,,0.2226,,,,,,,8,5
+politics of east asia,,,0.822,,,,,,,-4,1012
+water transport,,,-0.7,,,,,,,-2,11284
+shipping,,,-0.45,,,,,,,9.4,245
+naval warfare,,,-0.56,,,,,,,2.3,7585
+foreign relations,,,-0.787,,,,,,,-3,46058
