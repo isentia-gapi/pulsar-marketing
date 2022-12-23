@@ -1,21 +1,21 @@
-VALUE,COUNT,WEEK_TAG
-politics,227,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-international relations,195,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-china,174,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-global politics,137,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-government,130,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-diplomacy,112,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-foreign policy,109,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-asia,108,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-south china sea,90,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-politics of china,77,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-politics of asia,75,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-international security,73,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-military,71,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-territorial disputes in the south china sea,70,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-foreign relations,66,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-economy,51,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-national security,49,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-politics of east asia,49,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-conflicts,48,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
-spratly islands,48,from 2022-12-16T00:00:00Z to 2022-12-16T06:20:30Z
+VALUE,COUNT
+politics,227
+international relations,195
+china,174
+global politics,137
+government,130
+diplomacy,112
+foreign policy,109
+asia,108
+south china sea,90
+politics of china,77
+politics of asia,75
+international security,73
+military,71
+territorial disputes in the south china sea,70
+foreign relations,66
+economy,51
+national security,49
+politics of east asia,49
+conflicts,48
+spratly islands,48
