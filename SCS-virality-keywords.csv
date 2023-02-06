@@ -1,81 +1,21 @@
-TOPIC,2023-01-20,2023-01-21,2023-01-22,2023-01-23,2023-01-24,2023-01-25,2023-01-26,2023-01-27,2023-01-28,2023-01-29,2023-01-30,2023-01-31,2023-02-01,2023-02-02,priorperiod_volume,currentperiod_volume,peak_velocity,median,lifespan,difference,GROWTH RATE,volatility,median_variance,Z-SCORE,TOTAL VOLUME,TREND_CLASSIFICATION,POP-UP
-CHINA,95,135,31,33,291,104,38,34,107,60,76,85,101,242,727.0,705.0,10.1,90.0,2,-22.0,-0.0,0.9183983987840717,0.9657968162172051,0.6,1432,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: CHINA
-/n
-This week's trending topic, CHINA, had a total volume of 1432.
-The trend was consistent with a growth rate of -0.0% and had a steady volatility of 0.6."
-SOUTH,47,63,16,15,265,68,16,15,45,24,35,37,40,168,490.0,364.0,7.0,39.0,2,-126.0,-0.3,1.3365355593214354,0.5476596556798414,0.4,854,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: SOUTH
-/n
-This week's trending topic, SOUTH, had a total volume of 854.
-The trend was cooling down with a growth rate of -0.3% and had a steady volatility of 0.4."
-MILITARY,9,6,20,5,237,45,3,6,9,6,14,8,11,88,325.0,142.0,3.7,9.0,2,-183.0,-0.6,2.5727847556445544,0.6885895406432776,-0.4,467,COOLING DOWN & STREAKY TRENDS,"COOLING DOWN & STREAKY TREND: MILITARY
-/n
-This week's trending topic, MILITARY, had a total volume of 467.
-The trend was cooling down with a growth rate of -0.6% and had a streaky volatility of -0.4."
-CHINA'S,4,0,6,6,234,32,0,5,6,0,11,1,17,82,282.0,122.0,3.4,6.0,3,-160.0,-0.6,0.0,0.0,0.0,404,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: CHINA'S
-/n
-This week's trending topic, CHINA'S, had a total volume of 404.
-The trend was cooling down with a growth rate of -0.6% and had a neutral volatility of 0.0."
-PHILIPPINES,7,3,5,1,6,4,1,1,2,1,5,2,4,100,27.0,115.0,4.2,4.0,1,88.0,3.3,8.900321021497724,7.016125806496447,-4.5,142,HEATING UP & STREAKY TRENDS,"HEATING UP & STREAKY TREND: PHILIPPINES
-/n
-This week's trending topic, PHILIPPINES, had a total volume of 142.
-The trend was heating up with a growth rate of 3.3% and had a streaky volatility of -4.5."
-TAIWAN,4,42,2,0,0,4,2,0,6,7,15,8,12,62,54.0,110.0,2.6,5.0,1,56.0,1.0,0.0,0.0,0.0,164,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: TAIWAN
-/n
-This week's trending topic, TAIWAN, had a total volume of 164.
-The trend was heating up with a growth rate of 1.0% and had a neutral volatility of 0.0."
-BASES,0,0,0,1,0,2,1,0,3,1,1,7,1,75,4.0,88.0,3.1,1.0,3,84.0,21.0,0.0,0.0,0.0,92,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: BASES
-/n
-This week's trending topic, BASES, had a total volume of 92.
-The trend was heating up with a growth rate of 21.0% and had a neutral volatility of 0.0."
-CHINESE,11,2,7,3,13,16,7,2,5,7,6,21,31,20,59.0,92.0,1.3,7.0,2,33.0,0.6,1.1273286369542368,0.75686657804704,0.5,151,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: CHINESE
-/n
-This week's trending topic, CHINESE, had a total volume of 151.
-The trend was heating up with a growth rate of 0.6% and had a steady volatility of 0.5."
-ACCESS,0,0,0,0,1,1,0,0,0,0,6,6,1,66,2.0,79.0,2.8,0.1,2,77.0,38.5,0.0,0.0,0.0,81,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: ACCESS
-/n
-This week's trending topic, ACCESS, had a total volume of 81.
-The trend was heating up with a growth rate of 38.5% and had a neutral volatility of 0.0."
-NATIONS,0,0,0,1,0,1,0,0,0,1,0,0,3,67,2.0,71.0,2.8,0.1,1,69.0,34.5,0.0,0.0,0.0,73,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: NATIONS
-/n
-This week's trending topic, NATIONS, had a total volume of 73.
-The trend was heating up with a growth rate of 34.5% and had a neutral volatility of 0.0."
-ATTACK,0,0,0,0,0,1,0,0,0,4,1,0,1,67,1.0,73.0,2.8,0.1,2,72.0,72.0,0.0,0.0,0.0,74,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: ATTACK
-/n
-This week's trending topic, ATTACK, had a total volume of 74.
-The trend was heating up with a growth rate of 72.0% and had a neutral volatility of 0.0."
-PLAN,0,0,0,0,0,2,0,0,0,1,0,0,1,67,2.0,69.0,2.8,0.1,1,67.0,33.5,0.0,0.0,0.0,71,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: PLAN
-/n
-This week's trending topic, PLAN, had a total volume of 71.
-The trend was heating up with a growth rate of 33.5% and had a neutral volatility of 0.0."
-2023,10,17,9,21,22,14,16,18,8,23,7,23,7,12,109.0,98.0,1.0,15.0,2,-11.0,-0.1,1.2390038604365285,0.6451913545647483,0.4,207,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: 2023
-/n
-This week's trending topic, 2023, had a total volume of 207.
-The trend was cooling down with a growth rate of -0.1% and had a steady volatility of 0.4."
-LAUT,29,16,8,16,19,18,23,19,15,7,3,28,14,8,129.0,94.0,1.2,16.0,5,-35.0,-0.3,3.305665276438648,1.421470061437371,-0.9,223,COOLING DOWN & STREAKY TRENDS,"COOLING DOWN & STREAKY TREND: LAUT
-/n
-This week's trending topic, LAUT, had a total volume of 223.
-The trend was cooling down with a growth rate of -0.3% and had a streaky volatility of -0.9."
-SELATAN,20,14,3,9,13,10,8,14,13,5,3,21,10,8,77.0,74.0,0.9,10.0,2,-3.0,-0.0,2.378211056222811,0.4940158412215343,-0.3,151,HEATING UP & STREAKY TRENDS,"HEATING UP & STREAKY TREND: SELATAN
-/n
-This week's trending topic, SELATAN, had a total volume of 151.
-The trend was consistent with a growth rate of -0.0% and had a streaky volatility of -0.3."
-INDONESIA,1,8,1,9,2,3,3,4,8,18,10,3,17,6,27.0,66.0,0.8,5.0,3,39.0,1.4,1.8841952150012768,0.0,0.0,93,HEATING UP & STEADY TRENDS,"HEATING UP & STEADY TREND: INDONESIA
-/n
-This week's trending topic, INDONESIA, had a total volume of 93.
-The trend was heating up with a growth rate of 1.4% and had a neutral volatility of 0.0."
-U.S,1,0,2,1,1,2,1,13,6,2,20,13,5,32,8.0,91.0,1.3,2.0,3,83.0,10.4,5.34678594044381,3.4625907254425328,-2.2,99,HEATING UP & STREAKY TRENDS,"HEATING UP & STREAKY TREND: U.S
-/n
-This week's trending topic, U.S, had a total volume of 99.
-The trend was heating up with a growth rate of 10.4% and had a streaky volatility of -2.2."
-CUACA,5,4,5,6,12,7,11,14,9,12,0,8,0,3,50.0,46.0,0.6,7.0,5,-4.0,-0.1,0.0,0.0,0.0,96,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: CUACA
-/n
-This week's trending topic, CUACA, had a total volume of 96.
-The trend was cooling down with a growth rate of -0.1% and had a neutral volatility of 0.0."
-HUJAN,9,7,8,9,18,14,19,20,11,17,0,10,0,3,84.0,61.0,0.8,10.0,6,-23.0,-0.3,0.0,0.0,0.0,145,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: HUJAN
-/n
-This week's trending topic, HUJAN, had a total volume of 145.
-The trend was cooling down with a growth rate of -0.3% and had a neutral volatility of 0.0."
-INI,10,22,8,7,5,8,14,6,6,7,4,12,14,10,74.0,59.0,0.6,8.0,2,-15.0,-0.2,0.8651209709356616,1.019074244065615,0.7,133,COOLING DOWN & STEADY TRENDS,"COOLING DOWN & STEADY TREND: INI
-/n
-This week's trending topic, INI, had a total volume of 133.
-The trend was cooling down with a growth rate of -0.2% and had a steady volatility of 0.7."
+TOPIC,2023-01-23,2023-01-24,2023-01-25,2023-01-26,2023-01-27,2023-01-28,2023-01-29,2023-01-30,2023-01-31,2023-02-01,2023-02-02,2023-02-03,2023-02-04,2023-02-05,priorperiod_volume,currentperiod_volume,peak_velocity,median,lifespan,difference,GROWTH RATE,volatility,median_variance,Z-SCORE,TOTAL VOLUME,TREND_CLASSIFICATION,POP-UP
+CHINA,33,291,104,38,34,107,60,76,87,104,265,245,241,439,667.0,1457.0,18.3,104.0,1,790.0,1.2,0.5800836216506913,1.9523644287514033,0.5,2124,HEATING UP & STEADY TRENDS,"This week's trending topic, CHINA, had a total volume of 2124. The trend was heating up with a growth rate of 1.2% and had a steady volatility of 0.5."
+SOUTH,15,265,68,16,15,45,24,35,39,40,183,121,79,153,448.0,650.0,7.6,43.0,2,202.0,0.5,1.373623896791809,1.1588241536102855,0.3,1098,HEATING UP & STEADY TRENDS,"This week's trending topic, SOUTH, had a total volume of 1098. The trend was heating up with a growth rate of 0.5% and had a steady volatility of 0.3."
+CHINESE,3,13,16,7,2,5,7,6,21,31,24,59,77,205,53.0,423.0,8.5,15.0,1,370.0,7.0,1.0272343198663783,1.5052137305357163,0.4,476,HEATING UP & STEADY TRENDS,"This week's trending topic, CHINESE, had a total volume of 476. The trend was heating up with a growth rate of 7.0% and had a steady volatility of 0.4."
+BALLOON,0,0,0,0,0,0,0,0,0,0,1,56,91,136,0.1,284.0,5.7,0.1,0,283.9,2839.0,0.0,0.0,0.0,284,HEATING UP & STREAKY TRENDS,"This week's trending topic, BALLOON, had a total volume of 284. The trend was heating up with a growth rate of 2839.0% and had a streaky volatility of 0.0."
+MILITARY,5,237,45,3,6,9,6,14,8,11,97,35,26,103,311.0,294.0,4.3,13.0,2,-17.0,-0.1,3.0185289420509296,0.48608089164883506,-0.1,605,COOLING DOWN & STREAKY TRENDS,"This week's trending topic, MILITARY, had a total volume of 605. The trend was cooling down with a growth rate of -0.1% and had a streaky volatility of -0.1."
+CHINA'S,6,234,32,0,5,6,0,11,1,17,87,17,15,24,283.0,172.0,3.6,13.0,2,-111.0,-0.4,0.0,0.0,0.0,455,COOLING DOWN & STREAKY TRENDS,"This week's trending topic, CHINA'S, had a total volume of 455. The trend was cooling down with a growth rate of -0.4% and had a streaky volatility of 0.0."
+PHILIPPINES,1,6,4,1,1,2,1,5,2,4,114,26,12,40,16.0,203.0,4.8,4.0,1,187.0,11.7,10.206979076555127,7.674531026153033,-2.1,219,HEATING UP & STREAKY TRENDS,"This week's trending topic, PHILIPPINES, had a total volume of 219. The trend was heating up with a growth rate of 11.7% and had a streaky volatility of -2.1."
+SPY,0,0,0,0,0,1,0,0,0,0,1,48,60,55,1.0,164.0,2.5,0.1,1,163.0,163.0,0.0,0.0,0.0,165,HEATING UP & STREAKY TRENDS,"This week's trending topic, SPY, had a total volume of 165. The trend was heating up with a growth rate of 163.0% and had a streaky volatility of 0.0."
+LAUT,16,19,18,23,19,15,7,3,29,15,9,20,73,17,117.0,166.0,3.0,18.0,3,49.0,0.4,3.4090080114497416,0.8765599610476471,-0.2,283,HEATING UP & STREAKY TRENDS,"This week's trending topic, LAUT, had a total volume of 283. The trend was heating up with a growth rate of 0.4% and had a streaky volatility of -0.2."
+TAIWAN,0,0,4,2,0,6,7,15,8,12,70,32,11,33,19.0,181.0,2.9,8.0,2,162.0,8.5,1.9678415161446587,0.5646065342574358,0.2,200,HEATING UP & STEADY TRENDS,"This week's trending topic, TAIWAN, had a total volume of 200. The trend was heating up with a growth rate of 8.5% and had a steady volatility of 0.2."
+SELATAN,9,13,10,8,14,13,5,3,22,11,9,26,74,17,72.0,162.0,3.1,12.0,2,90.0,1.2,2.5324480504020945,0.0,0.0,234,HEATING UP & STREAKY TRENDS,"This week's trending topic, SELATAN, had a total volume of 234. The trend was heating up with a growth rate of 1.2% and had a streaky volatility of 0.0."
+BASES,1,0,2,1,0,3,1,1,7,1,82,23,10,21,8.0,145.0,3.4,2.0,1,137.0,17.1,30.398023644882763,27.865575594480667,-7.5,153,HEATING UP & STREAKY TRENDS,"This week's trending topic, BASES, had a total volume of 153. The trend was heating up with a growth rate of 17.1% and had a streaky volatility of -7.5."
+ASEAN,7,7,5,1,0,3,14,6,1,14,4,16,109,34,37.0,184.0,4.5,7.0,1,147.0,4.0,5.199184991700693,2.6667369412985984,-0.7,221,HEATING UP & STREAKY TRENDS,"This week's trending topic, ASEAN, had a total volume of 221. The trend was heating up with a growth rate of 4.0% and had a streaky volatility of -0.7."
+ATTACK,0,0,1,0,0,0,4,1,0,1,67,15,4,31,5.0,119.0,2.8,1.0,1,114.0,22.8,0.0,0.0,0.0,124,HEATING UP & STREAKY TRENDS,"This week's trending topic, ATTACK, had a total volume of 124. The trend was heating up with a growth rate of 22.8% and had a streaky volatility of 0.0."
+INDONESIA,9,2,3,3,4,8,18,10,3,17,8,28,58,76,47.0,200.0,3.2,9.0,2,153.0,3.3,1.978570351345546,0.5538776990565486,0.1,247,HEATING UP & STEADY TRENDS,"This week's trending topic, INDONESIA, had a total volume of 247. The trend was heating up with a growth rate of 3.3% and had a steady volatility of 0.1."
+U.S,1,1,2,1,13,6,2,20,13,5,37,27,39,55,26.0,196.0,2.3,10.0,2,170.0,6.5,3.8874917124121438,1.3550436620100492,-0.4,222,HEATING UP & STREAKY TRENDS,"This week's trending topic, U.S, had a total volume of 222. The trend was heating up with a growth rate of 6.5% and had a streaky volatility of -0.4."
+ACCESS,0,1,1,0,0,0,0,6,6,1,74,12,0,7,2.0,106.0,3.1,1.0,3,104.0,52.0,0.0,0.0,0.0,108,HEATING UP & STREAKY TRENDS,"This week's trending topic, ACCESS, had a total volume of 108. The trend was heating up with a growth rate of 52.0% and had a streaky volatility of 0.0."
+NATIONS,1,0,1,0,0,0,1,0,0,3,68,8,4,12,3.0,95.0,2.8,1.0,1,92.0,30.7,0.0,0.0,0.0,98,HEATING UP & STREAKY TRENDS,"This week's trending topic, NATIONS, had a total volume of 98. The trend was heating up with a growth rate of 30.7% and had a streaky volatility of 0.0."
+PLAN,0,0,2,0,0,0,1,0,0,1,67,7,6,7,3.0,88.0,2.8,1.0,1,85.0,28.3,0.0,0.0,0.0,91,HEATING UP & STREAKY TRENDS,"This week's trending topic, PLAN, had a total volume of 91. The trend was heating up with a growth rate of 28.3% and had a streaky volatility of 0.0."
+2023,21,22,14,16,18,8,23,7,24,7,14,13,10,23,122.0,98.0,1.0,15.0,2,-24.0,-0.2,1.178063949484423,1.3543841009176716,0.4,220,COOLING DOWN & STEADY TRENDS,"This week's trending topic, 2023, had a total volume of 220. The trend was cooling down with a growth rate of -0.2% and had a steady volatility of 0.4."
